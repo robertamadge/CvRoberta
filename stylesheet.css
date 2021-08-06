@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+body{
+    
+}
+*{
+    font-family: verdana;
+}
+
+h1{
+    color: purple;
+    text-align: center;
+}
+
+label{
+    font-weight: bold;
+}

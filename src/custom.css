@@ -1,0 +1,89 @@
+@charset "utf-8";
+
+
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{   
+    background-color: lightblue;
+    padding: 20px;    
+    
+}
+
+div{
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgb(108, 192, 194);    
+}
+
+#contact{
+    margin-left: 100px;
+}
+
+h1{
+    color: rgb(22, 74, 75);
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+}
+
+h2{
+    color: rgb(22, 74, 75);
+    text-align: center;
+    font-weight: bold;
+}
+h3{
+    color: black;
+    text-align: center;
+}
+h4{
+    color: black;
+    text-align: center;
+}
+
+#profileImg{
+    height: 420px;
+    float: right; 
+    margin-right: 100px;   
+    border-radius: 20px;
+    margin-top: 20px;
+}
+#pcImg{
+    height: 300px;
+    margin-left: 280px;;
+}
+
+.languageImg{
+    width: 45px;
+}
+
+p{
+    color: black;
+}
+
+.paragraph{
+    text-align: center;
+    color: black;
+}
+
+#table li{
+    text-align: center;
+    list-style: none;
+    margin-right: 40px;
+}
+
+i{
+    color: rgb(22, 74, 75);
+    font-size: 25px;
+}
+
+hr.rounded {
+    border-top: 2px solid rgb(22, 74, 75);
+    border-radius: 2px;
+}
+
+footer{
+    text-align: center;
+    padding: 5px;
+}
